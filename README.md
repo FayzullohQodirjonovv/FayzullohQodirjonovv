@@ -3,17 +3,17 @@
 <img align="right" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" alt="coder" width="400">
 <p align="left"></p>
 
-- 🔭 I’m currently working on "Grand Ta'lim"
+- 🔭 I’m currently working on **Grand Ta'lim**
 
-- 🌱 I’m currently learning Nuxt Js, Typescript, Python
+- 🌱 I’m currently learning **Nuxt Js, Typescript, Python**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/muslim-571/sites](https://app.netlify.com/teams/muslim-571/sites)
 
-- 💬 Ask me about Front-End (Development)
+- 💬 Ask me about **Front-End (Development)**
 
-- 📫 How to reach me fqodirjonov1@gmail.com
+- 📫 How to reach me **fqodirjonov1@gmail.com**
 
-- ⚡️ Fun fact: You remember more dreams when you sleep badly.
+- ⚡️ Fun fact: **You remember more dreams when you sleep badly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
