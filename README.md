@@ -1,7 +1,7 @@
 IT ustoz, [01.10.2024 18:23]
 <h1 align="center">Hi there 👋, I'm { "Fayzulloh Qodirjonov" }</h1>
 <h3 align="center">A passionate Front-End Developer from Uzbekistan Country</h3>
-<img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coder" width="400">
+<img align="right" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" alt="coder" width="400">
 <p align="left"></p>
 
 - 🔭 I’m currently working on "Grand Ta'lim"
