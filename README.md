@@ -12,9 +12,9 @@ IT ustoz, [01.10.2024 18:23]
 
 - 💬 Ask me about Front-End (Development)
 
-- 📫 How to reach me turabovumid587@gmail.com
+- 📫 How to reach me fqodirjonov1@gmail.com
 
-- ⚡️ Fun fact: It is ok sometimes to be an idiot
+- ⚡️ Fun fact: You remember more dreams when you sleep badly.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
