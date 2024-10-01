@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nuxt Js, Typescript, Python**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/muslim-571/sites](https://app.netlify.com/teams/muslim-571/sites)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/fayzullohqodirjonovv/sites]
 
 - 💬 Ask me about **Front-End (Development)**
 
