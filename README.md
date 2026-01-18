@@ -13,7 +13,7 @@ A passionate Frontend Developer from Uzbekistan 🇺🇿
 ### 🛠 Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap,sass,less,styledcomponents,redux,vite,firebase,figma,ps,git,github,vscode,postman,py,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nuxtjs,tailwind,bootstrap,sass,redux,vite,firebase,figma,git,github,vscode,postman,mongodb" />
   </a>
 </p>
 
